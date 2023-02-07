@@ -1,5 +1,3 @@
 ### Mert Musa Temel
 
-C/C++ developer/learner at Ecole 42, former industrial automation project engineer, University of Kocaeli Electronics and Telecommunication Engineering
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=montserrat&size=24&pause=1000&color=BBDFC5&center=true&width=550&lines=C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Former+automation+project+engineer;Electronics+and+Telecommunication+Engineer" alt="Typing SVG" /></a>
