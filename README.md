@@ -15,5 +15,9 @@
 
 <h3 align="center">How to reach me:</h3>
 <p align="center">
-
+<a href="https://www.instagram.com/mertmusatemel/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/instagram.png?raw=true" alt="instagram.com/mertmusatemel" style="width:100px;height:100px;"></a>
+<a href="https://www.facebook.com/mert.musa.temel/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/facebook.png?raw=true" alt="facebook.com/mertmusatemel" style="width:100px;height:100px;"></a>
+<a href="https://www.linkedin.com/in/mertmusatemel/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/linkedin.png?raw=true" alt="linkedin.com/in/mertmusatemel" style="width:100px;height:100px;"></a>
+<a href="https://www.youtube.com/mertmusatemel"> <img src="https://github.com/mmtemel/mmtemel/blob/main/youtube.png?raw=true" alt="youtube.com/mertmusatemel" style="width:100px;height:100px;"></a>
+<a href="https://twitter.com/mertmusatemel"> <img src="https://github.com/mmtemel/mmtemel/blob/main/twitter.png?raw=true" alt="twitter.com/mertmusatemel" style="width:100px;height:100px;"></a>
 </p>
