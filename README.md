@@ -24,7 +24,7 @@
 
 <h3 align="center">Programming languages and tools:</h3>
 <p align="center">
-	<a href="https://cplusplus.com/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/6132222.png?raw=true" alt="C++ Programming Language" style="width:100px;height:100px;"></a>
+	<a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/mmtemel/mmtemel/blob/main/6132222.png?raw=true" alt="C++ Programming Language" style="width:100px;height:100px;"></a>
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/mmtemel/mmtemel/blob/main/c-programming.png?raw=true" alt="C Programming Language" width="100"height="100"></a>
 	<a href="https://git-scm.com/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/Git-Icon-1788C.png?raw=true" alt="Git" width="100" height="100"></a>
 	<a href="https://www.gnu.org/software/bash/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?raw=true" alt="Bash" width="100" height="100"></a>
