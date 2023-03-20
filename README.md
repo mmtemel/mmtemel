@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/mmtemel">
-		<img src="https://github.com/mmtemel/mmtemel/blob/main/Mert%20Musa%20Temel.png?raw=true" height="50%" width="50%" alt="Mert Musa Temel"/>
+		<img src="https://github.com/mmtemel/mmtemel/blob/main/Mert%20Musa%20Temel.png?raw=true" style="width:50%;height:50%;" alt="Mert Musa Temel"/>
 	</a>
 </p>
 
