@@ -1,9 +1,7 @@
 <!-- ### Mert Musa Temel -->
 
 <p align="center">
-	<a href="https://github.com/mmtemel">
-		<img src="https://github.com/mmtemel/mmtemel/blob/main/Mert%20Musa%20Temel.png?raw=true" style="width:50%;height:50%;" alt="Mert Musa Temel"/>
-	</a>
+	<a href="https://github.com/mmtemel"> <img src="https://github.com/mmtemel/mmtemel/blob/main/Mert%20Musa%20Temel.png?raw=true" alt="Mert Musa Temel" width="300" height="30"></a>
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -28,4 +26,6 @@
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/mmtemel/mmtemel/blob/main/c-programming.png?raw=true" alt="C Programming Language" width="100"height="100"></a>
 	<a href="https://git-scm.com/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/Git-Icon-1788C.png?raw=true" alt="Git" width="100" height="100"></a>
 	<a href="https://www.gnu.org/software/bash/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?raw=true" alt="Bash" width="100" height="100"></a>
+	<a href="https://www.java.com/en/download/help/whatis_java.html"> <img src="https://github.com/mmtemel/mmtemel/blob/main/java.png?raw=true" alt="Java" width="100" height="100"></a>
+	<a href="https://unix.org/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/unix-logo-png-transparent.png?raw=true" alt="UNIX" width="100" height="100"></a>
 </p>
