@@ -23,7 +23,7 @@
 <h3 align="center">Programming languages and tools:</h3>
 <p align="center">
 	<a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/mmtemel/mmtemel/blob/main/6132222.png?raw=true" alt="C++ Programming Language" width="100"height="100"></a>
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/mmtemel/mmtemel/blob/main/c-programming.png?raw=true" alt="C Programming Language" width="100"height="100"></a>
+	<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming Language" width="100"height="100"></a>
 	<a href="https://git-scm.com/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/Git-Icon-1788C.png?raw=true" alt="Git" width="100" height="100"></a>
 	<a href="https://www.gnu.org/software/bash/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?raw=true" alt="Bash" width="100" height="100"></a>
 	<a href="https://www.java.com/en/download/help/whatis_java.html"> <img src="https://github.com/mmtemel/mmtemel/blob/main/java.png?raw=true" alt="Java" width="100" height="100"></a>
