@@ -27,5 +27,5 @@
 	<a href="https://git-scm.com/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/Git-Icon-1788C.png?raw=true" alt="Git" width="100" height="100"></a>
 	<a href="https://www.gnu.org/software/bash/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?raw=true" alt="Bash" width="100" height="100"></a>
 	<a href="https://www.java.com/en/download/help/whatis_java.html"> <img src="https://github.com/mmtemel/mmtemel/blob/main/java.png?raw=true" alt="Java" width="100" height="100"></a>
-	<a href="https://unix.org/"> <img src="https://github.com/mmtemel/mmtemel/blob/main/unix-logo-png-transparent.png?raw=true" alt="UNIX" width="100" height="100"></a>
+	<a href="https://unix.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="UNIX" width="100" height="100"></a>
 </p>
