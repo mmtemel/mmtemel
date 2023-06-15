@@ -13,14 +13,15 @@
 
 <h3 align="center">Programming languages and tools:</h3>
 <p align="center">
-	<a href="https://cplusplus.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++ Programming Language" width="75"height="75"></a>
-	<a href="https://www.open-std.org/jtc1/sc22/wg14/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming Language" width="75"height="75"></a>
-	<a href="https://git-scm.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="75" height="75"></a>
-	<a href="https://www.gnu.org/software/bash/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="75" height="75"></a>
-	<a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="75" height="75"></a>
+	<a href="https://cplusplus.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75"height="75"></a>
+	<a href="https://www.open-std.org/jtc1/sc22/wg14/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="75"height="75"></a>
+	<a href="https://git-scm.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="75" height="75"></a>
+	<a href="https://www.gnu.org/software/bash/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="75" height="75"></a>
+	<a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="75" height="75"></a>
 	<a href="https://unix.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="UNIX" width="75" height="75"></a>
 	<a href="https://ubuntu.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="75" height="75"></a>
-	<a href="https://www.linux.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux" width="75" height="75"></a>
+	<a href="https://www.linux.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="75" height="75"></a>
+	<a href="https://code.visualstudio.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="75" height="75"></a>
 </p>
 
 <h3 align="center">How to reach me:</h3>
