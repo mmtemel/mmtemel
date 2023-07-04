@@ -1,9 +1,5 @@
 <!-- ### Mert Musa Temel -->
 
-<p align="center">
-	<a href="https://github.com/mmtemel"> <img src="https://github.com/mmtemel/mmtemel/blob/main/Mert%20Musa%20Temel.png?raw=true" alt="Mert Musa Temel" width="300" height="30"></a>
-</p>
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/mertmusatemel/">
