@@ -2,9 +2,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://www.linkedin.com/in/mertmusatemel/">
-		<img src="https://readme-typing-svg.demolab.com?font=montserrat&size=24&pause=1000&color=BBDFC5&center=true&width=600&lines=C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Former+automation+project+engineer;Electronics+and+Telecommunication+Engineer" alt="Typing SVG" />
-	</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=montserrat&size=24&pause=1000&color=BBDFC5&center=true&random=false&width=600&lines=Software+Developer+at+PiA;C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Former+automation+project+engineer;Electronics+and+Telecommunication+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Programming languages and tools:</h3>
