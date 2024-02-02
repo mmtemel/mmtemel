@@ -18,6 +18,18 @@
 	<a href="https://ubuntu.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="75" height="75"></a>
 	<a href="https://www.linux.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="75" height="75"></a>
 	<a href="https://code.visualstudio.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="75" height="75"></a>
+	<a href="https://spring.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="75" height="75"></a>
+	<a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="75" height="75"></a>
+	<a href="http://github.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="75" height="75"></a>
+	<a href="https://www.jetbrains.com/idea/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij IDEA" width="75" height="75"></a>
+	<a href="https://bitbucket.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="75" height="75"></a>
+	<a href="https://www.debian.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="75" height="75"></a>
+	<a href="https://www.docker.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="75" height="75"></a>
+	<a href="https://www.atlassian.com/software/jira"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="75" height="75"></a>
+	<a href="https://www.mongodb.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="75" height="75"></a>
+	<a href="https://www.mysql.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="75" height="75"></a>
+	<a href="https://www.microsoft.com/sql-server"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="75" height="75"></a>
+	<a href="https://www.vim.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" width="75" height="75"></a>
 </p>
 
 <h3 align="center">How to reach me:</h3>
